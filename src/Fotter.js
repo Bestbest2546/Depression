@@ -35,9 +35,6 @@ const Fotter = () => {
                     </div>
                 </div>
             </div>
-            <div className='rightfootter'>
-
-            </div>
         </div>
     )
 }
