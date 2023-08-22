@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Depression/static/css/main.8e2286bd.css",
-    "main.js": "/Depression/static/js/main.e7ace366.js",
+    "main.css": "/Depression/static/css/main.4245bbac.css",
+    "main.js": "/Depression/static/js/main.63e7ca64.js",
     "static/media/logo.png": "/Depression/static/media/logo.ba76cb72fba94e1865b9.png",
     "index.html": "/Depression/index.html",
-    "main.8e2286bd.css.map": "/Depression/static/css/main.8e2286bd.css.map",
-    "main.e7ace366.js.map": "/Depression/static/js/main.e7ace366.js.map"
+    "main.4245bbac.css.map": "/Depression/static/css/main.4245bbac.css.map",
+    "main.63e7ca64.js.map": "/Depression/static/js/main.63e7ca64.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e2286bd.css",
-    "static/js/main.e7ace366.js"
+    "static/css/main.4245bbac.css",
+    "static/js/main.63e7ca64.js"
   ]
 }
