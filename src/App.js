@@ -4,6 +4,7 @@ import search from './search.png'
 import React, { useState } from 'react';
 import Button from '@mui/material/Button';
 import Footter from './Fotter';
+import dow from './download.png'
 
 function App() {
   const [searchTerm, setSearchTerm] = useState("");
@@ -67,17 +68,23 @@ function App() {
         <div className='right'>
           <div>
             <h3>DATA SET</h3>
-            <Button variant="contained" href="./logo.png" download="Test_download.zip">
-              Download
-            </Button>
-          </div>
-          <div>
-            <h3>Download PDF</h3>
-            <Button variant="contained">Download</Button>
+            {/* <Button variant="contained" href="./logo.png" download="Test_download.zip">
+              <img src={dow} />
+            </Button> */}
+            <url>
+              <li><a href="./logo.png" download="Test_download.zip">Dowload Data set</a></li>
+            </url>
+            <div>
+              <h3>Download PDF</h3>
+              {/* <Button variant="contained" href="./logo.png" download="Test_download.zip"><img src={dow} /></Button> */}
+              <url>
+                <li><a href="./logo.png" download="Test_download.zip">Dowload PDF</a></li>
+              </url>
+            </div>
           </div>
         </div>
       </div>
-      <Footter/>
+      <Footter />
     </div>
   );
 }

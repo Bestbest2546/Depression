@@ -34,7 +34,7 @@
 
 .content h2 {
   color: #5C3D20;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 .content p1 {
@@ -42,6 +42,7 @@
   font-weight: bold;
   font-size: 1rem;
 }
+
 .content p {
   color: #000000;
   font-size: 0.9rem;
@@ -54,14 +55,21 @@
 }
 
 .right {
-  position: relative;
   display: flex;
   flex-direction: column;
   align-self: start;
-  align-items: start;
   width: auto;
   height: auto;
   padding: 20px;
+}
+
+.right Button {
+  width: 1vw;
+}
+.right img {
+  width: 30px;
+  height: 20px;
+  filter: invert(1);
 }
 
 .leftnav {
@@ -86,7 +94,7 @@
 .associated h1 {
   margin-bottom: 40px;
   color: #5C3D20;
-  font-size: 1.4rem;
+  font-size: 2rem;
 }
 
 .link {
