@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Bestbest2546/Depression.git/static/css/main.890603ac.css",
-    "main.js": "/Bestbest2546/Depression.git/static/js/main.43dde966.js",
-    "static/media/logo.png": "/Bestbest2546/Depression.git/static/media/logo.ba76cb72fba94e1865b9.png",
-    "index.html": "/Bestbest2546/Depression.git/index.html",
-    "main.890603ac.css.map": "/Bestbest2546/Depression.git/static/css/main.890603ac.css.map",
-    "main.43dde966.js.map": "/Bestbest2546/Depression.git/static/js/main.43dde966.js.map"
+    "main.css": "/Depression/static/css/main.890603ac.css",
+    "main.js": "/Depression/static/js/main.ece510bd.js",
+    "static/media/logo.png": "/Depression/static/media/logo.ba76cb72fba94e1865b9.png",
+    "index.html": "/Depression/index.html",
+    "main.890603ac.css.map": "/Depression/static/css/main.890603ac.css.map",
+    "main.ece510bd.js.map": "/Depression/static/js/main.ece510bd.js.map"
   },
   "entrypoints": [
     "static/css/main.890603ac.css",
-    "static/js/main.43dde966.js"
+    "static/js/main.ece510bd.js"
   ]
 }
